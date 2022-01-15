@@ -1,4 +1,4 @@
-# Predict_ExpectedRateofReturn
+# ExpectedRateofReturn_Prediction
 Bigdata Analysis &amp; Utilization midterm project
 
 ![슬라이드1](https://user-images.githubusercontent.com/71228141/149620048-922313be-fb46-4637-864e-ad3b473859a6.JPG)
